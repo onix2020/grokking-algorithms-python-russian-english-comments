@@ -10,7 +10,7 @@
 # ----------
 # Set is a list-like type of data structure that cannot have duplicates.
 # Create the set "states_needed" that stores a list of states to cover.
-states_needed = {"mt", "wa", "or", "id", "nv", "ut", "са", "az"}
+states_needed = {"mt", "wa", "or", "id", "nv", "ut", "сa", "az"}
 
 
 # Создаем словарь "stations", в котором его ключи представляет из себя имена радиостанций,
